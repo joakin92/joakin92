@@ -10,7 +10,7 @@ Apaixonado por trilhas, natureza e tecnologia. Paraense, morando atualmente em P
 
 # 🛠️Habilidades:
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
